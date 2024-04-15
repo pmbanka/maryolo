@@ -9,6 +9,4 @@ I create things, right now mostly from clay.
 
 In this website you will find my most recent projects.
 
-![This is me][1]
-
-[1]: /img/about.jpg
+![This is me](/img/about.jpg)

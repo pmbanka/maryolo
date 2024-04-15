@@ -1,4 +1,4 @@
-baseURL = 'https://maryolo.art/'
+baseURL = 'https://pmbanka.github.io/maryolo'
 languageCode = 'en-us'
 title = 'maryolo'
 theme = "hugo-creative-portfolio-theme"
