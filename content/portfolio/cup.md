@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "/img/portfolio/09-cup/IMG_5753.jpg"
+image = "img/portfolio/09-cup/IMG_5753.jpg"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
 title = "Elegant cup"

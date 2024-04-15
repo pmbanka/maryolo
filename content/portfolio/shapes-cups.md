@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "/img/portfolio/05-geometric/img1.jpg"
+image = "img/portfolio/05-geometric/img1.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Geometric shapes"
 showonlyimage = true

@@ -1,5 +1,5 @@
 +++
-image = "/img/portfolio/18-greenish-sand/IMG_6677.jpg"
+image = "img/portfolio/18-greenish-sand/IMG_6677.jpg"
 showonlyimage = true
 date = "2016-11-05T19:57:40+05:30"
 title = "Sand and sea"
