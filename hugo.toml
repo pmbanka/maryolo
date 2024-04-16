@@ -46,7 +46,7 @@ canonifyURLs = true
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Projects"
-  url = "portfolio/"
+  url = "projects/"
   home = true
 
   [[params.navlinks]]
