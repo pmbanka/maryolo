@@ -3,8 +3,8 @@ draft = false
 image = "img/projects/01-green-face/IMG_3617.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
-title = "Brococli face"
-weight = 11
+title = "Brocccoli face"
+weight = 1
 description = "A plate and cup duo for the little munchers, sporting a friendly green face reminiscent of broccoli."
 +++
 

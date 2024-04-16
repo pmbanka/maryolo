@@ -4,7 +4,7 @@ image = "img/projects/09-cup/IMG_5753.jpg"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
 title = "Elegant cup"
-weight = 10
+weight = 6
 description = "Quirky and charming, this cup boasts a playful mix of stripes and dots, adding a dash of whimsy to your morning routine."
 +++
 

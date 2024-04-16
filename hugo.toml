@@ -32,7 +32,7 @@ canonifyURLs = true
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formsubmit.co
      # - you're done. Happy mailing!
-  email = "maryyllaa@gmail.com"
+  email = "f1ce0552f9f33ad4ff336c022bf8ae71"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
