@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/02-four-cups/IMG_5529.jpg"
+image = "img/projects/02-four-cups/IMG_5529.jpg"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "Four cups"
@@ -21,8 +21,8 @@ A set of four cups - soft, sophisticated tones, whispering elegance with every s
 ![The work][5]
 
 
-[1]: /img/portfolio/02-four-cups/IMG_5529.jpg
-[2]: /img/portfolio/02-four-cups/IMG_5530.jpg
-[3]: /img/portfolio/02-four-cups/IMG_5836.jpg
-[4]: /img/portfolio/02-four-cups/IMG_5820.jpg
-[5]: /img/portfolio/02-four-cups/IMG_5822.jpg
+[1]: /img/projects/02-four-cups/IMG_5529.jpg
+[2]: /img/projects/02-four-cups/IMG_5530.jpg
+[3]: /img/projects/02-four-cups/IMG_5836.jpg
+[4]: /img/projects/02-four-cups/IMG_5820.jpg
+[5]: /img/projects/02-four-cups/IMG_5822.jpg

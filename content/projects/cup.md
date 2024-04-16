@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/09-cup/IMG_5753.jpg"
+image = "img/projects/09-cup/IMG_5753.jpg"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
 title = "Elegant cup"
@@ -19,7 +19,7 @@ Quirky and charming, this cup boasts a playful mix of stripes and dots, adding a
 ![The work][4]
 
 
-[1]: /img/portfolio/09-cup/IMG_5753.jpg
-[2]: /img/portfolio/09-cup/IMG_5760.jpg
-[3]: /img/portfolio/09-cup/IMG_5774.jpg
-[4]: /img/portfolio/09-cup/IMG_5755.jpg
+[1]: /img/projects/09-cup/IMG_5753.jpg
+[2]: /img/projects/09-cup/IMG_5760.jpg
+[3]: /img/projects/09-cup/IMG_5774.jpg
+[4]: /img/projects/09-cup/IMG_5755.jpg

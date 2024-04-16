@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/14-whale/IMG_5876.jpg"
+image = "img/projects/14-whale/IMG_5876.jpg"
 showonlyimage = true
 date = "2016-11-05T19:50:47+05:30"
 title = "Whale shark"
@@ -21,8 +21,8 @@ The blue cup adorned with a majestic whale shark, bringing the vast ocean's wond
 ![The work][5]
 
 
-[1]: /img/portfolio/14-whale/IMG_5873.jpg
-[2]: /img/portfolio/14-whale/IMG_5874.jpg
-[3]: /img/portfolio/14-whale/IMG_5875.jpg
-[4]: /img/portfolio/14-whale/IMG_5876.jpg
-[5]: /img/portfolio/14-whale/IMG_5877.jpg
+[1]: /img/projects/14-whale/IMG_5873.jpg
+[2]: /img/projects/14-whale/IMG_5874.jpg
+[3]: /img/projects/14-whale/IMG_5875.jpg
+[4]: /img/projects/14-whale/IMG_5876.jpg
+[5]: /img/projects/14-whale/IMG_5877.jpg
