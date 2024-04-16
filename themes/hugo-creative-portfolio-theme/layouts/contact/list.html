@@ -24,9 +24,10 @@
                <label for="message">Your message for me *</label>
                <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
              </div>
-             {{/*  <div>
-              <input type="hidden" name="_next" value="https://yourdomain.co/thanks.html">
-             </div>  */}}
+             <div>
+              {{/*  no idea how to use {{ .SITE.BaseURL }}  */}}
+              <input type="hidden" name="_next" value="https://pmbanka.github.io/maryolo"> 
+             </div>
              <div>
                <input type="submit" value="Send" class="btn btn-ghost">
              </div>
